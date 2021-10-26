@@ -1,19 +1,11 @@
-## Welcome to GitHub Pages
+## Johan Myburgh is a Microsoft Technical Trainer at Microsoft
 
-You can use the [editor on GitHub](https://github.com/sayedimac/sayedimac.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Training and sharing knowledgecomes quite naturally to me, so herewith some links and other findings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Link](https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser) Github Markdown Syntax examples with 
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,7 +15,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
