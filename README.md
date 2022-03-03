@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Johan Myburgh is a Microsoft technical trainer, working out of London, UK
 
 You can use the [editor on GitHub](https://github.com/sayedimac/sayedimac.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
