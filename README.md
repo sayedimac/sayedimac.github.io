@@ -1,4 +1,4 @@
-## Johan Myburgh is a Microsoft Technical Trainer at Microsoft
+## Johan Myburgh is a Microsoft technical trainer, working out of London, UK
 
 ### Training and sharing knowledgecomes quite naturally to me, so herewith some links and other findings.
 
