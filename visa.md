@@ -1,5 +1,7 @@
 # UK Visa Types
 
+[Home](README.md)
+
 ## 1. Tourist Visa
 - **Purpose**: For tourism and visiting friends or family.
 - **Duration**: Up to 6 months.

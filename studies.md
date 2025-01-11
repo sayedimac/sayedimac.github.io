@@ -1,6 +1,8 @@
 
 # Studying in the UK: A Guide for Non-Permanent Residents
 
+[Home](README.md)
+
 ## Studying Without Permanent Residency
 
 As a person without permanent residency in the UK, you can still pursue education, but there are some key points to consider:

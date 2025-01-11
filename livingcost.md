@@ -1,5 +1,7 @@
 # Tips for Saving on Cost of Living in the UK
 
+[Home](README.md)
+
 ## 1. Housing
 - Consider house sharing or renting a room.
 - Look for affordable housing options outside city centers.

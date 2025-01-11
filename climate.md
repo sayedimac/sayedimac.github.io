@@ -1,5 +1,7 @@
 # Living in the UK: A Guide for South Africans
 
+[Home](README.md)
+
 ## Climate
 - **Seasons**: The UK experiences four distinct seasons - spring, summer, autumn, and winter.
 - **Temperature**: Generally mild, with summer temperatures averaging around 15-25°C and winter temperatures ranging from -1 to 7°C.

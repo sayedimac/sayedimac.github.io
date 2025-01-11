@@ -1,5 +1,7 @@
 # Finding a House in the UK as an Immigrant
 
+[Home](README.md)
+
 ## Right to Stay
 Before you start looking for a house in the UK, ensure you have the right to stay. This typically involves having a valid visa or residency permit. Check the UK government's official website for detailed information on visa requirements and residency permits.
 
