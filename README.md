@@ -1,4 +1,4 @@
-## Johan Myburgh - Notes on immigrating from South Africa to the UK 
+##  Notes on immigrating from South Africa to the UK 
 
 ### Deciding to go
 
