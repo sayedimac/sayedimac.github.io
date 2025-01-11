@@ -1,6 +1,6 @@
 ##  Notes on immigrating from South Africa to the UK 
 
-### Deciding to go
+#### [The big decision](togo.md)
 
 1. Visa and Immigration Requirements
 2. Financial Planning and Budgeting
