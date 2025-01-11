@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: SA to the UK
-description: Some tipcs and  tricks for South Africans moving to the UK
 logo: /img/logo.png
+# description: Some tipcs and  tricks for South Africans moving to the UK
