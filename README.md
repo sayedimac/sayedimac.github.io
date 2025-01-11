@@ -17,3 +17,4 @@
 13. [Cost of Living](livingcost.md)
 14. [Banking and Financial Services](banking.md)
 15. [Insurance](insurance.md)
+16. [Pets](pets.md)
