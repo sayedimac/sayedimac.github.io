@@ -1,37 +1,36 @@
 # Immigrating from South Africa to the UK with Pets
 
-If you are considering immigrating from South Africa to the UK with your pets, here are some recommendations to help you through the process:
+## - Do not put preassure on yourself to get them here ASAP. Ensure you are ready for them when they arrive.
+## - Work with a vendor.
+## - No quarantine is required in the UK unless they find an issue.
 
-## 1. Research Pet Import Regulations
-- Check the UK government website for the latest pet import regulations.
-- Ensure your pets meet all health and vaccination requirements.
+### 1. Timing
+- Your pet will essentially have to start the procedure for vaccination clearance at least three (3) months before they can get on the airplane.
+- This makes it possible to fly at almost exactly the same time, but unless you have a place for them immediately, you might want to time this so the pets arive after you have got their accomodation in place (see below). 
+- If you are coming over and have to find a place, then hold off with the pets if you can for a week or two/three. It can be stressfull having to find a place with a garden that allows pets for the price you want, in the suburb you want, etc.
 
-## 2. Microchip and Vaccinate Your Pets
+### 2. The Process
 - Your pets must be microchipped.
-- Ensure they are vaccinated against rabies and other required diseases.
+- They will get a set of injections irrespective of their current vaccine status
+- After one month, they will be tested for antibodies. 
+- If that is found sufficient, then they can travel after a further 2 months.
 
 ## 3. Obtain a Pet Passport or Health Certificate
 - Get a pet passport or an official veterinary certificate.
 - This document should include details of vaccinations and treatments.
-
-## 4. Arrange for Pet Transport
-- Choose a pet-friendly airline and book your pet's travel.
-- Consider using a pet relocation service for assistance.
 
 ## 5. Prepare for Quarantine (if applicable)
 - Check if your pets need to undergo quarantine upon arrival.
 - Make necessary arrangements for their stay.
 
 ## 6. Plan for Pet Accommodation
-- Find pet-friendly accommodation in the UK.
-- Ensure your new home is suitable for your pets.
+- Most sites will allow you to filter based on Pets or Garden, if not ask this first when enquiring about a property
+- If your dog is properly house trained, a garden might not even be a necessity 
 
 ## 7. Register with a UK Veterinarian
 - Find a local vet in the UK and register your pets.
 - Schedule a health check-up soon after arrival.
 
-## Additional Tips
-- Keep all documentation handy during travel.
-- Make sure your pets are comfortable and safe during the journey.
+## Get Pet insurance 
+- I am not kidding - it is worth it here especially if your pets are getting old. Could easily be £3000 to cut a lump out.
 
-By following these steps, you can ensure a smooth transition for your pets when moving from South Africa to the UK.
