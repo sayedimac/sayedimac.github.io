@@ -1,8 +1,9 @@
-# Immigrating from South Africa to the UK with Pets
+# Bring your pets
 
-## - Do not put preassure on yourself to get them here ASAP. Ensure you are ready for them when they arrive.
-## - Work with a vendor.
-## - No quarantine is required in the UK unless they find an issue.
+### Top tips
+- Do not put preassure on yourself to get them here ASAP. Rather ensure you are ready for them when they arrive.
+- Work with a vendor - it is not cheap bu tit really is a lot less stress if you compare it to doing it yourself.
+- No quarantine is required in the UK unless they find an issue.
 
 ### 1. Timing
 - Your pet will essentially have to start the procedure for vaccination clearance at least three (3) months before they can get on the airplane.
@@ -31,6 +32,6 @@
 - Find a local vet in the UK and register your pets.
 - Schedule a health check-up soon after arrival.
 
-## Get Pet insurance 
+## 8. Get Pet insurance 
 - I am not kidding - it is worth it here especially if your pets are getting old. Could easily be £3000 to cut a lump out.
 
